@@ -72,5 +72,4 @@ model.fit(
     validation_steps=validation_generator.samples // batch_size)
 
 
-Output: Accuracy of 87%
 
